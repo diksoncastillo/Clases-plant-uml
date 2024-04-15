@@ -1,0 +1,6 @@
+@startuml
+
+Objeto01 -> Objeto02 : Operacion01()
+Objeto02 -> Objeto01 : Respuesta01()
+
+@enduml
